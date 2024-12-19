@@ -1,0 +1,19 @@
+body{
+    background-color: dodgerblue;
+}
+.btn btn-link{
+ background-color: aquamarine;;
+}
+.btn-primary{
+    background-color: aquamarine;
+}
+.col{
+    background-color: red;
+}
+.card{
+    display: flex;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    margin-left: 700px;
+}
